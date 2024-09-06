@@ -1,5 +1,5 @@
 const App = () => {
-  return <h1>welcome to proshop</h1>;
+  return <p>welcome to proshop</p>;
   
 }
 
